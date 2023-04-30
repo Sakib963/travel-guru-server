@@ -1,0 +1,27 @@
+[
+      {
+        "id": 1,
+        "name": "Cox's Bazar",
+        "description": "Cox's Bazar is a town on the southeast coast of Bangladesh. It's known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Cox's Bazar is a popular tourist destination, attracting visitors from all over the world. The town is home to a variety of hotels, restaurants, and shops, catering to the needs of travelers. In addition to its beautiful beaches, Cox's Bazar is also known for its seafood, which is a must-try for anyone visiting the area.",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235354752-eb43f419-393b-4d05-a0e5-2bc31dff4458.png"
+      },
+      {
+        "id": 2,
+        "name": "Sreemangal",
+        "description": "Sreemangal is a small town in northeastern Bangladesh, known for its tea estates and natural beauty. The town is surrounded by lush green forests and hills, providing a peaceful and serene atmosphere for visitors. Sreemangal is also home to some of the best tea in the world, which is grown on the tea estates that dot the landscape. Visitors can take a tour of the tea gardens and learn about the tea-making process, or simply relax and enjoy a cup of freshly brewed tea.",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235354777-198da233-f929-4c3f-ab8f-afd3dbd125e6.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Sundarban",
+        "description": "The Sundarbans is a mangrove forest in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It's home to the Bengal tiger, as well as many other species of flora and fauna. The Sundarbans is a UNESCO World Heritage Site, and is a popular destination for wildlife enthusiasts and nature lovers. Visitors can take a boat tour of the forest, and observe the wildlife in its natural habitat. The Sundarbans is also an important ecological zone, providing a vital habitat for many species of plants and animals.",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235354789-93193487-612f-4d6b-92c6-bca3d87b4145.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Saint Martin",
+        "description": "Saint Martin's Island is a small island in the Bay of Bengal, off the coast of Bangladesh. It's known for its beautiful beaches and clear blue waters. The island is home to a small fishing community, who live in simple huts and make their living from the sea. Visitors can enjoy swimming, sunbathing, and snorkeling in the crystal clear waters, or take a walk along the beach and enjoy the stunning views of the ocean. Saint Martin's Island is a peaceful and tranquil destination, perfect for anyone looking to escape the hustle and bustle of everyday life.",
+        "photoUrl": "https://user-images.githubusercontent.com/66853064/235354806-52eec366-2950-44ba-ba20-4202d8ea6790.jpg"
+      }
+]
+  
